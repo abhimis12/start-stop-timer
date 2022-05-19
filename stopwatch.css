@@ -1,0 +1,32 @@
+.jumbotron_text-center{
+    width:400px;
+    height:100px;
+    border-radius: 10em;
+    margin-left: 500px;
+    margin-top: 200px;
+}
+.timer{
+    font-size:80px;
+    margin-left: 40px;;
+    margin-bottom: 10px;
+}
+
+.btn_btn-lg_btn-success{
+    background-color: greenyellow;
+}
+.btn_btn-lg_btn-danger{
+    width: 100px;
+    height: 30px;
+    border-radius: 80px;
+}
+.btn_btn-lg_btn-success{
+    width: 100px;
+    height: 30px;
+    border-radius: 100px;
+}
+.btn_btn-lg_btn-link_btn-block{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border-radius: 80px;
+}
